@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://nameless-inlet-86876.herokuapp.com/",
+  "change_calculator": "https://ja-react100-change-calc.herokuapp.com/",
+  "mortgage_calculator": "https://ja-react100-mortgage-calc.herokuapp.com/",
+  "top_spots": "https://ja-react100-top-spots.herokuapp.com/",
+  "vstda": "https://ja-react100-vstda.herokuapp.com/"
 }
